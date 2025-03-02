@@ -19,7 +19,7 @@ The **AI-powered rural healthcare platform** is designed to provide **medical as
 ## ⚙️ Setup Instructions
 ### **📥 1. Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/rural-healthcare-platform.git
+git clone https://github.com/Pranaykrishna77/AI-Powered-Rural-Healthcare-Platform
 cd rural-healthcare-platform
 ```
 
