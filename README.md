@@ -20,12 +20,14 @@ The **AI-powered rural healthcare platform** is designed to provide **medical as
 ### **📥 1. Clone the Repository**
 ```sh
 git clone https://github.com/Pranaykrishna77/AI-Powered-Rural-Healthcare-Platform
-cd rural-healthcare-platform
+cd AI-Powered-Rural-Healthcare-Platform
+
 ```
 
 ### **📦 2. Install Dependencies**
 #### 🛠️ Backend (Flask)
 ```sh
+cd ../src/backend
 pip install flask requests scikit-learn numpy pandas
 ```
 #### 💻 Frontend (React.js)
